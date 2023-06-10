@@ -115,10 +115,10 @@ function App() {
 
 export default App;
 ~~~
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/SdMdZahi7/DEVELOP-A-CAROUSEL-USING-REACT-FRAMEWORK/assets/94187572/a3b2b391-f63c-4521-a838-055eed879699)
 
-RESULT:
+## RESULT:
 Thus, a carousel using react framework is developed successfully.
 
 
